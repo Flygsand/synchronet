@@ -1,0 +1,12 @@
+synchronet (3.14b+cvs-1) UNRELEASED; urgency=low
+
+  * Upstream 3.15b + CVS
+
+ -- vagrant <vagrant@vagrant-wheezy32.vagrantup.com>  Sat, 25 May 2013 14:42:49 +0200
+
+synchronet (3.14a-0.8) UNLRELEASED; urgency=low
+
+  * Debian pre-release Synchronet package version 3.14a-0.8
+
+ -- Robert James Clay <jame@rocasa.us>  Thu,  3 Mar 2011 20:04:23 -0500
+
